@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>_0._002_sanırım</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\windows 11\Downloads\Portfolio builder 0.002\Form1.cs" Link="Form1.cs" />
+    <Compile Include="C:\Users\windows 11\Downloads\Portfolio builder 0.002\Form2.cs" Link="Form2.cs" />
+  </ItemGroup>
+
+</Project>
